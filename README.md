@@ -1,2 +1,2 @@
 # grrs
- Mini grep clone
+ Yet another mini grep clone.
